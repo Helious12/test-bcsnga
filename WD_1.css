@@ -1,0 +1,18 @@
+
+
+
+
+#error_mes
+{
+    color : red;
+}
+
+.container {
+    background-image: linear-gradient(45deg, blue, red);
+}
+
+.registerForm {
+    background-color: aliceblue;
+    height: 30px;
+}
+
